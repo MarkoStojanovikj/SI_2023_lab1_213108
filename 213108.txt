@@ -1,0 +1,27 @@
+4. git init
+5. git remote add origin https://github.com/MarkoStojanovikj/SI_2023_lab1_213108.git
+6. notepad Readme.md, git add ., git commit -m "initial commit"
+7. git commit -m "Add java class"
+8. git pull
+9. git branch bug1/2/3
+10. git checkout bug1
+11. i <= n >> i < n,  git commit -m "Fix wrong loop for reading"
+12. git checkout bug2
+13. el % 2 == 0 >> el % 2 != 0, git commit -m "Fix wrong condition in filterOddNumbers"
+14. git checkout bug3
+15. int sum = 1 and sum *= el >> int sum=0 and sum += el, git commit -m "Fix method sumEvenNumbers"
+16. git pull origin master
+17. git checkout master
+18. git merge bug1 - nemashe problem
+19. git checkout master
+20. git merge bug2 - bara objasnuvanje na mergeot, resheno so :wq
+21. git pull origin master
+22. git checkout bug3
+23. git rebase master
+24. git checkout master
+25. git merge bug3 - nemashe problem
+26. git pull origin master
+27. git log > logs.txt
+28. git pull origin master
+
+
