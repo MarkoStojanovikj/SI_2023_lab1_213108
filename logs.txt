@@ -1,0 +1,48 @@
+commit 3f84471f87d1592a8bf2661dfe9fa693fbbb91e0
+Author: Marko <markostojanovikj@gmail.com>
+Date:   Thu Apr 6 10:11:15 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 5726aa67acec15f14d6c53c295a884fa58abdfce
+Merge: c977b9f f2246fc
+Author: Marko <markostojanovikj@gmail.com>
+Date:   Thu Apr 6 10:22:59 2023 +0200
+
+    git merge bug2
+
+commit f2246fc65114032d76031baceb4bfea51ba525da
+Author: Marko <markostojanovikj@gmail.com>
+Date:   Thu Apr 6 10:03:51 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c977b9f7e2683155ab1b0a55ad03755af2d13c29
+Author: Marko <markostojanovikj@gmail.com>
+Date:   Thu Apr 6 10:01:20 2023 +0200
+
+    Fix wrong loop for reading
+
+commit c912bcdea024bd6f2e282eacdbd0299fe1eeb0c2
+Author: Marko <markostojanovikj@gmail.com>
+Date:   Thu Apr 6 08:44:13 2023 +0200
+
+    Add java class
+
+commit 3d95488c0ae64d27c4c2d5d1e8616098a0775ce9
+Author: Marko <markostojanovikj@gmail.com>
+Date:   Thu Apr 6 08:35:37 2023 +0200
+
+    remove .txt
+
+commit 7172627a5a035b267af7187806eaabae64109ca1
+Author: Marko <markostojanovikj@gmail.com>
+Date:   Thu Apr 6 08:14:07 2023 +0200
+
+    txt file
+
+commit ccd47ce5de2036ae8bac7888544c9c0d3d8bdbda
+Author: Marko <markostojanovikj@gmail.com>
+Date:   Thu Apr 6 08:03:49 2023 +0200
+
+    initial commit
